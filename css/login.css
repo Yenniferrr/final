@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: sans-serif;
+}
+
+.contenido-todo{
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    padding: 60px;
+    background: rgb(142, 142, 158);
+    margin-top: 100px;
+    border-top: rgb(0, 0, 0);
+    margin-bottom: 100px;
+}

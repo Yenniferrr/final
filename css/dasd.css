@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: sans-serif;
+}
+
+body{   
+    background: #727272f6;
+}
+
+
+.sss{
+    width: 330px;
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px;
+    background: rgba(158, 142, 142, 0.356);
+    margin-top: 100px;
+    border-top: rgb(0, 0, 0);
+}
+
+
+.container-all{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 100px;
+    padding: 60px;
+    background: rgba(158, 142, 142, 0.356);
+    margin-top: 100px;
+    border-top: rgb(0, 0, 0);
+}
+
+
+.container-all img{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.container-all p{
+    font-size: 18px;
+    font-weight: 300;
+    margin-top: 20px;
+}
